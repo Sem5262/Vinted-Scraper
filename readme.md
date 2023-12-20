@@ -1,4 +1,4 @@
-# vintedApi
+# Vinted Scraper
 
 A web scraper that gets new items from the vinted catalog
 
