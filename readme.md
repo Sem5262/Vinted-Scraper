@@ -39,6 +39,8 @@ A web scraper that gets new items from the vinted catalog
 
 - translate the title and description to own language
 
+- autobuy
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
